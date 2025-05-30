@@ -1,0 +1,12 @@
+{
+  "name": "mi-exploracion-espacial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "explorer": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
